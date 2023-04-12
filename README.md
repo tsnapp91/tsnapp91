@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   - 🌱 I’m currently learning fullstack web development through Bloomtech  
-  - ⚡ Fun fact: I would love to collaborate and learn with you!
+  - ⚡ Fun fact: I enjoy riding dirtbikes and playing guitar.
 <details>
 <summary>My top languages</summary>
 
